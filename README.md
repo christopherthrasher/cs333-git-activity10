@@ -1,3 +1,3 @@
-This is an activity being completed in our Testing & DevOps class. 
+My favorite programming language is C++.
 
 We are practicing source control.
