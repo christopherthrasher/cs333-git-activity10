@@ -1,3 +1,3 @@
-This is an activity being completed in our Testing & DevOps class. 
+This is partner's 2 changes. 
 
 We are practicing source control.
